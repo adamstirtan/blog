@@ -18,8 +18,6 @@ GitHub: [adamstirtan/](https://github.com/adamstirtan/NeuralNet.NET)[NeuralNet.N
 
 NuGet: [NuGet Gallery |](https://www.nuget.org/packages/NeuralNet.Net/) [NeuralNet.Net](http://NeuralNet.Net) [1.0.0](https://www.nuget.org/packages/NeuralNet.Net/)
 
-# Key Features
-
 ## Easy Setup
 
 With NeuralNet.Net, you can quickly set up a neural network by specifying the number of layers and neurons. The library supports multiple activation functions, including Sigmoid, Tanh, and ReLU.
