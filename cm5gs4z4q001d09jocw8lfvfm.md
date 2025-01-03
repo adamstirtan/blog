@@ -5,6 +5,7 @@ seoDescription: "NeuralNet.NET simplifies creating and training neural networks 
 datePublished: Fri Jan 03 2025 13:17:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm5gs4z4q001d09jocw8lfvfm
 slug: introducing-neuralnetnet-a-simple-to-use-net-library-for-artificial-neural-networks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735910317639/c6273a46-96fa-43c3-b07a-2a570b46f0dc.jpeg
 tags: artificial-intelligence, neural-networks, activation-function, nuget, ann, artificial-neural-network
 
 ---
